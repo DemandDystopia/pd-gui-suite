@@ -1,6 +1,8 @@
-# assorted-pd-collection
-Mostly UI Tricks, Proof of Concepts and various other Experiments 
+GUI related suite of puredata patches and abstractions made to create more complex UI elements in plugdata. 
 
-Made solely with Plugdata in mind, but should work in PD Vanilla with ELSE and Cyclone externals.
+Designed specifically for high customizability, but less flexible. basic versions for sketching/prototyping will be available.
 
-UI related patches may only work (or look good) in plugdata, either for using plugdata exclusive objects, or more likely, relying on the improved performance and minor differences of plugdatas rendering engine. 
+[Still in early stages of development]
+
+Made with and primarily for plugdata, but intended to function in vanilla, as long as the ELSE library is installed. 
+Due to improvements of the render engine in plugdata, performance in vanilla may wary. 
