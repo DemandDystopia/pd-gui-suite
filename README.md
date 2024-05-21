@@ -11,3 +11,10 @@ Due to improvements of the render engine in plugdata, performance in vanilla may
 - [ ] dynamic tabs with ability to create new tabs
 - [ ] list that can be re-ordered with drag and drop (for FX order)
 - [ ] modern wireless drag and drop modulation system
+- [ ] XY controller (square, round) with ability to set multiple path points (for Vector synthesis
+- [ ] file/preset browser with foldable groups & tagging system
+
+In consideration:
+- modern 2D+3D wavetable display based on scope3d
+- custom context menu
+- modulation via patchcables
